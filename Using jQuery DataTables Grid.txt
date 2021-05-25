@@ -1,6 +1,6 @@
 USE [CustomerDB]
 GO
-/****** Object:  Table [dbo].[CustomerTB]    Script Date: 09/12/2017 09:55:31 ******/
+
 SET ANSI_NULLS ON
 GO
 SET QUOTED_IDENTIFIER ON
